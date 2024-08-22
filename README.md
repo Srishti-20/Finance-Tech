@@ -3,7 +3,7 @@
 
 ## Project Description
 
-This project demonstrates a full-stack application that integrates a React.js frontend with a Flask backend. The frontend, developed using React.js, communicates with the backend Flask server through RESTful API endpoints. 
+This project demonstrates a full-stack application that integrates a React.js frontend with a Flask backend and Firebase for authenticated data storage functionality. The frontend, developed using React.js, communicates with the backend Flask server through RESTful API endpoints. 
 
 The backend, built with Flask, provides a simple API that serves data to the React frontend. This setup showcases how to handle API requests, enable Cross-Origin Resource Sharing (CORS), and interact with a backend server from a React application.
 
